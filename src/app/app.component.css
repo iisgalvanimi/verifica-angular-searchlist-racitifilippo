@@ -1,0 +1,10 @@
+.contenitore{
+    background-color: lightcoral;
+    padding: 15px;
+    border: 2px solid black;
+}
+.frutti{
+    padding: 4px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
